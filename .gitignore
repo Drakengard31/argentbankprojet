@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+ArgentBank-Backend/node_modules/
+ArgentBank-Frontend/node_modules/
+
+# Build outputs
+ArgentBank-Frontend/build/
+ArgentBank-Backend/dist/
+
+# Environment variables
+.env
+.env.local
+.env.production
+ArgentBank-Frontend/.env
+ArgentBank-Backend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Lock files (optionnel, mais recommandé de garder package-lock.json)
+# package-lock.json
