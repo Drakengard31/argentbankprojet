@@ -1,18 +1,18 @@
 # Dependencies
 node_modules/
-ArgentBank-Backend/node_modules/
+ArgentBank-Frontend/ArgentBank-Backend/node_modules/
 ArgentBank-Frontend/node_modules/
 
 # Build outputs
 ArgentBank-Frontend/build/
-ArgentBank-Backend/dist/
+ArgentBank-Frontend/ArgentBank-Backend/dist/
 
 # Environment variables
 .env
 .env.local
 .env.production
 ArgentBank-Frontend/.env
-ArgentBank-Backend/.env
+ArgentBank-Frontend/ArgentBank-Backend/.env
 
 # Logs
 npm-debug.log*
